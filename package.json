@@ -4,8 +4,7 @@
   "description": "Fluid components to model an express server and associated router modules.",
   "main":        "",
   "scripts": {
-    "test":        "node tests/all-tests.js",
-    "postinstall": "grunt dedupe-infusion"
+    "test":        "node tests/all-tests.js"
   },
   "repository": {
     "type": "git",
